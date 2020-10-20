@@ -23,7 +23,7 @@ Here are links to some repositories that I am proud of working on on GitHub.
 - [Solidworks Project](https://github.com/jackgilbride999/Solidworks-Project): An old project at this stage, but still one I'm happy with! Leaving Certificate Design & Communications project, using **Solidworks** to create objects along with **orthographic**, exploded, pictorial and photorealistic views. 
 
 ### Contact Me!
-You can find me on [LinkedIn](https://www.linkedin.com/in/jackgilbride/) or via email at (jackgilbride999@gmail.com)[mailto:jackgilbride999@gmail.com]!
+You can find me on [LinkedIn](https://www.linkedin.com/in/jackgilbride/) or via email at [jackgilbride999@gmail.com](mailto:jackgilbride999@gmail.com)!
 <!--
 **jackgilbride999/jackgilbride999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
