@@ -1,4 +1,4 @@
-![Cover Photo](cover.PNG)
+![Cover Photo](cover.png)
 ### Hi there 👋
 
 <!--
