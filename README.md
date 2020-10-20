@@ -7,7 +7,7 @@ I am currently seeking an **internship** in the area of Software Engineering / D
 
 **GitHub** is my preferred host for version control. I use it to version control assignments, college projects and personal projects. 
 
-Languages that you will find in my repositories include: **Java** (plus Processing, JUnit), **C** (plus PThreads, OpenMP, Intrinsics) **C++** (plus OpenGL) **C#** (plus Universal Windows Platform), **HTML / CSS**, **JavaScript** (plus Node, Express, React), **Python**, **Haskell**,**Prolog**, **Assembly** (ARM Assembly, IA32, x64), **VHDL**, **Flex & Bison** and **SQL**.
+Languages that you will find in my repositories include: ***Java*** (plus Processing, JUnit), ***C*** (plus PThreads, OpenMP, Intrinsics) ***C++*** (plus OpenGL) ***C#*** (plus Universal Windows Platform), ***HTML / CSS***, ***JavaScript*** (plus Node, Express, React), ***Python***, ***Haskell***,***Prolog***, ***Assembly*** (ARM Assembly, IA32, x64), ***VHDL***, ***Flex & Bison*** and ***SQL***.
 
 ### Repositories in Progress
 These are repositories for coursework that I am currently working on.
