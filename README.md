@@ -1,18 +1,17 @@
 ![Cover Photo](cover.png)
 ### Hi there 👋
 
-My name is **Jack Gilbride** and I am an Integrated Computer Science student at Trinity College Dublin. I am currently in my fourth year of the five year Computer Science program, working towards a B.A. (Moderatorship) Honors Bachelor Degree at the end of fourth year, and an M.C.S. at the end of fifth year. 
-
-I am currently seeking an **internship** in the area of Software Engineering / Development, from February until the end of summer 2021.
+My name is **Jack Gilbride** and I am an Integrated Computer Science student at Trinity College Dublin. I am currently in my fourth year of the five year Computer Science program, working towards a B.A. (Moderatorship) Honors Bachelor Degree in fourth year, and an M.C.S. in fifth year. 
 
 **GitHub** is my preferred host for version control. I use it to version control assignments, college projects and personal projects. 
 
-Languages that you will find in my repositories include: ***Java*** (plus Processing, JUnit), ***C*** (plus PThreads, OpenMP, Intrinsics), ***C++*** (plus OpenGL) ***C#*** (plus Universal Windows Platform), ***HTML / CSS***, ***JavaScript*** (plus Node, Express, React), ***Python***, ***Haskell***, ***Prolog***, ***Assembly*** (ARM Assembly, IA32, x64), ***VHDL***, ***Flex & Bison*** and ***SQL***.
+Languages that you will find in my repositories include: ***Java*** (plus Processing, JUnit), ***C*** (plus PThreads, OpenMP, Intrinsics), ***C++*** (plus OpenGL) ***C#*** (plus Universal Windows Platform), ***HTML / CSS***, ***JavaScript*** (plus Node, Express, Vue, React), ***Python***, ***Haskell***, ***Prolog***, ***Assembly*** (ARM Assembly, IA32, x64), ***VHDL***, ***Flex & Bison*** and ***SQL***.
 
 ### Repositories in Progress
 These are repositories for coursework that I am currently working on.
 - [Functional Programming](https://github.com/jackgilbride999/Functional-Programming)
 - [Computer Graphics](https://github.com/jackgilbride999/Computer-Graphics)
+- [Internet Applications](https://github.com/jackgilbride999/Internet-Applications)
 
 ### Repositories that I'm Proud of
 Here are links to some repositories that I am proud of working on on GitHub.
