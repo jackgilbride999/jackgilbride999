@@ -3,9 +3,7 @@
 
 My name is **Jack Gilbride** and I am an Integrated Computer Science student at Trinity College Dublin. I am currently in my fourth year of the five year Computer Science program, working towards a B.A. (Moderatorship) Honors Bachelor Degree in fourth year, and an M.C.S. in fifth year. 
 
-**GitHub** is my preferred host for version control for assignments, college projects and personal projects. 
-
-Languages that you will find in my repositories include: ***Java*** (plus Processing, JUnit), ***C*** (plus PThreads, OpenMP, Intrinsics), ***C++*** (plus OpenGL), ***C#*** (plus Universal Windows Platform), ***HTML / CSS***, ***JavaScript*** (plus Node, Express, Vue, React), ***Python***, ***Haskell***, ***Prolog***, ***Assembly*** (ARM Assembly, IA32, x64), ***VHDL***, ***Flex & Bison*** and ***SQL***.
+I use GitHub to host and version control assignments, college projects and personal projects. In my repositories you will find work in: ***Java*** (plus Processing, JUnit), ***C*** (plus PThreads, OpenMP, Intrinsics), ***C++*** (plus OpenGL), ***C#*** (plus Universal Windows Platform), ***HTML / CSS***, ***JavaScript*** (plus Node, Express, Vue, React), ***Python***, ***Haskell***, ***Prolog***, ***Assembly*** (ARM Assembly, IA32, x64), ***VHDL***, ***Flex & Bison*** and ***SQL***.
 
 ### Repositories in Progress
 These are repositories for coursework that I am currently working on.
