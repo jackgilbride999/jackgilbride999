@@ -1,12 +1,11 @@
-![Cover Photo](cover.png)
 ### Hi there 👋
 
-My name is **Jack Gilbride** and I am an Integrated Computer Science student at Trinity College Dublin. I am currently in my fourth year of the five year Computer Science program, working towards a B.A. (Moderatorship) Honors Bachelor Degree in fourth year, and an M.C.S. in fifth year. 
+My name is Jack, and I'm currently in my final year of an integrated B.A./MCS Computer Science degree at Trinity College Dublin.
 
-I use GitHub to host and version control assignments, college projects and personal projects. In my repositories you will find work in: ***Java*** (plus Processing, JUnit), ***C*** (plus PThreads, OpenMP, Intrinsics), ***C++*** (plus OpenGL), ***C#*** (plus Universal Windows Platform), ***HTML / CSS***, ***JavaScript*** (plus Node, Express, Vue, React), ***Python***, ***Haskell***, ***Prolog***, ***Assembly*** (ARM Assembly, IA32, x64), ***VHDL***, ***Flex & Bison*** and ***SQL***.
+I use GitHub to host and version control assignments, college projects and personal projects. In my repositories you will find work in: Java, C, C++, C#, HTML / CSS, JavaScript, Python, Haskell, Prolog, Assembly, VHDL, and some of the interesting frameworks and libraries utilizing these languages!
 
 ### Contact Me!
-You can find me on [LinkedIn](https://www.linkedin.com/in/jackgilbride/) or via email at [jackgilbride999@gmail.com](mailto:jackgilbride999@gmail.com)!
+You can find me on [LinkedIn](https://www.linkedin.com/in/jackgilbride/) or via email at [jackgilbride999@gmail.com](mailto:jackgilbride999@gmail.com).
 <!--
 **jackgilbride999/jackgilbride999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
