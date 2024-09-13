@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-My name is Jack, and I'm currently in my final year of an integrated B.A./MCS Computer Science degree at Trinity College Dublin.
+My name is Jack, and I'm a software engineer.
 
-I use GitHub to host and version control assignments, college projects and personal projects. In my repositories you will find work in: Java, C, C++, C#, HTML / CSS, JavaScript, Python, Haskell, Prolog, Assembly, VHDL, and some of the interesting frameworks and libraries utilizing these languages!
+My GitHub profile is mostly a graveyard of old assignments and projects worked on during my years at Trinity College Dublin (2017-2022). But who knows, I may come back and make some publicly accessible personal projects soon!
+
+In my repositories you will find work in: Java, Haskell, C, C++, C#, HTML / CSS, JavaScript, Python, Prolog, Assembly, VHDL, and some of the interesting frameworks and libraries utilizing these languages!
 
 ### Contact Me!
-You can find me on [LinkedIn](https://www.linkedin.com/in/jackgilbride/) or via email at [jackgilbride999@gmail.com](mailto:jackgilbride999@gmail.com).
+You can find me on [LinkedIn](https://www.linkedin.com/in/jackgilbride/).
 <!--
 **jackgilbride999/jackgilbride999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
